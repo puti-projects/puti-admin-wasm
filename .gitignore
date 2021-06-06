@@ -18,4 +18,6 @@
 .vscode/
 .idea/
 
+/web/app.wasm
+
 test-server
